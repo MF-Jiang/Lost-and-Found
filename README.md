@@ -11,7 +11,7 @@ Absorption is defined as an object taking external substances into itself. Our i
 ## Game Introduction
 ### Character Profile
 In "Lost&Found," the character Bench is an adorable little slime. Due to the collapse of the world, Bench initially sees a monotonous, colorless world. With each level Bench completes, he gains a color, each representing a characteristic - red for strength, yellow for resilience, and blue for wisdom. As Bench successfully completes all levels, he collects various elements, transforming his body into a vibrant, colorful state, attracting companions and moving on to the next stage.
-![2](https://mmbiz.qpic.cn/mmbiz_png/byJZG0QKM1PUHI70xr…6kJE4Yw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![2](https://mmbiz.qpic.cn/mmbiz_png/byJZG0QKM1PUHI70xrSylT9cv3sHhNRIm2Ks5Q9libcyQrj5yfw2TuWjAuKCVucVFEcrXwhiaaTk5MRFP6kJE4Yw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ### Level Design
 We've designed five unique levels for the game. The first level serves as an introduction, where Bench navigates a series of challenging mazes filled with puzzles and obstacles. Bench can increase his size by absorbing energy blocks, and reduce his size by shooting bullets (using the spacebar or left mouse button) to pass through narrow passages. Players must control Bench's movement using the W, A, S, D keys to avoid spikes, cleverly utilize bounce blocks and teleporters, find keys, and progress to the next level.
